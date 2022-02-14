@@ -1,4 +1,4 @@
-### Name
+### Name of the project
 
 Vue-js Random User Generator using [CDN](https://v2.vuejs.org/v2/guide/installation.html)
 
